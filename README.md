@@ -7,7 +7,7 @@
 
 <p align="center"> - 🌱 I’m currently learning **c,c++,c#,html5,css3,python [Beginner]** </p>
 
-<p align="center"> - 📫 How to reach me **t.me/kevios12** </p>
+<p align="center"> - 📫 How to reach me **<a href="https://t.me/kevios12" target="_blank">Telegram</a>** </p>
 
 <p align="center"> - ⚡ Fun fact **I am funny.** </p>
 
